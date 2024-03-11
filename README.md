@@ -1,6 +1,6 @@
-# React Native Drawer Navigation
+# React Native Drawer Navigation TYPESCRIPT
 
-A simple React Native project showcasing drawer navigation for intuitive access to different sections of the application.
+A simple React Native in TSX project showcasing drawer navigation for intuitive access to different sections of the application.
 
 ## Overview
 
@@ -9,7 +9,6 @@ This project serves as a basic structure for building mobile applications with a
 - A single-screen layout with header and footer components.
 - Drawer menus for Calendar, Settings, Menu, and User sections.
 - Smooth animations for opening and closing drawers.
-
 ## Components
 
 ### Header
@@ -23,6 +22,7 @@ This project serves as a basic structure for building mobile applications with a
 - **Cog Drawer:** Provides settings and configuration options.
 - **Menu Drawer:** Offers additional navigation options or menu items.
 - **User Drawer:** Contains user-related actions or information.
+- **Blank Drawer Wrapper:** Ability to use a wrapper to wrap your components. 
 
 ## Usage
 
@@ -40,6 +40,7 @@ This project serves as a basic structure for building mobile applications with a
 - React Native
 - React Navigation
 - Expo
+- TYPESCRIPT
 
 ## Author
 
